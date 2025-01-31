@@ -4,3 +4,4 @@ Hello, today I renewed my previous website and updated the responsive settings f
 site link:
 
 https://kayrayavuz.com/
+![Screenshot_69](https://github.com/user-attachments/assets/ac0e20d4-be25-40b3-afbe-f461f6fd592d)
